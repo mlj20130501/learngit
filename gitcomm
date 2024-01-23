@@ -1,0 +1,1000 @@
+  778  sudo shutdown now
+  779  cd
+  780  cd deno_depon/fresh/financial_fv1.
+  781  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+  782  code .
+  783  deno task start
+  784  cd
+  785  sudo shutdown now
+  786  cd
+  787  ls
+  788  cd node_depon/
+  789  ls
+  790  unzip preact-main.zip 
+  791  cd preact-main/
+  792  ls
+  793  cd src/
+  794  ls
+  795  cd ..
+  796  ls
+  797  less package.json 
+  798  ls
+  799  cd ..
+  800  ls
+  801  ls -l
+  802  history |grep tgz
+  803  history |grep tar
+  804  tar -zxvf preact-10.19.2.tgz 
+  805  ls
+  806  cd package/
+  807  ls
+  808  less package.json 
+  809  cd ..
+  810  ls
+  811  cd preact-main/
+  812  ls
+  813  cd src/
+  814  ls
+  815  cd ..
+  816  ls
+  817  cd scripts/
+  818  ls
+  819  cd release/
+  820  ls
+  821  cd ..
+  822  ls
+  823  less README.md 
+  824  cd ..
+  825  cd package/
+  826  ls
+  827  cd src/
+  828  s
+  829  ls
+  830  cd ..
+  831  ls
+  832  cd ..
+  833  ls
+  834  unzip 'preact-www-master (1).zip'
+  835  cd preact-www-master/
+  836  ls
+  837  code .
+  838  sudo shutdown now
+  839  cd
+  840  cd node_depon/preact-www-master/
+  841  ls
+  842  code .
+  843  cd
+  844  cd deno_depon/fresh
+  845  ls
+  846  cd financial_fv1.6.0_tailwind/
+  847  code .
+  848  deno task start
+  849  sudo shutdown now
+  850  cd
+  851  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+  852  ls
+  853  code .
+  854  deno task start
+  855  deno task build
+  856  deno task start
+  857  sudo shutdown now
+  858  cd
+  859  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+  860  ls
+  861  cd routes/
+  862  ls
+  863  mkdir spa
+  864  cd ..
+  865  cd islands/
+  866  ls
+  867  mkdir spa
+  868  ls
+  869  cd ..
+  870  ls
+  871  code .
+  872  deno task start
+  873  deno task upgrade
+  874  deno task update
+  875  deno upgrade
+  876  code .
+  877  deno task start
+  878  ls
+  879  less deno.json 
+  880  deno task start
+  881  deno task build
+  882  deno task start
+  883  exit
+  884  sudo shutdown now
+  885  cat /etc/proc
+  886  cat /proc/version
+  887  sb_release -a~
+  888  lb_release -a~
+  889  lsb_release -a~
+  890  lsb_release -a
+  891  cat /etc/issue
+  892  cat /etc/os-release
+  893  uname -a
+  894  cd
+  895  cd deno_depon/fresh
+  896  mv financial_fv1.6.0_tailwind/ financial_fv1.6.1_tailwind/
+  897  cd financial_fv1.6.1_tailwind/
+  898  ls
+  899  code .
+  900  mv financial_fv1.6.1_tailwind/ financial_fv1.6.0_tailwind/
+  901  cd ..
+  902  mv financial_fv1.6.1_tailwind/ financial_fv1.6.0_tailwind/
+  903  cd financial_fv1.6.0_tailwind/
+  904  ls
+  905  cd node_modules/
+  906  ls
+  907  ls -l
+  908  code .
+  909  cd ..
+  910  ls
+  911  code .
+  912  deno task start
+  913  sudo shutdown now
+  914  cd
+  915  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+  916  ls
+  917  cd node_modules/
+  918  ls -l
+  919  ls
+  920  cd ..
+  921  ls
+  922  code .
+  923  deno task start
+  924  sudo shutdown now
+  925  cd
+  926  ls
+  927  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+  928  ls
+  929  cd ..
+  930  history |grep zip
+  931  zip -9 -r -e fin1_6.zip financial_fv1.6.0_tailwind/ 
+  932  ls -l
+  933  history |grep uzip
+  934  history |grep unzip
+  935  mv fin.zip fin1_5.zip
+  936  ls
+  937  rm fin1_5.zip 
+  938  zip -9 -r -e fin1_5.zip financial_fv1.5.4_ev1.1/
+  939  ls
+  940  mv financial_fv1.5.4_ev1.1/ old_financial_fv1.5.4_ev1.1/
+  941  cd financial_fv1.6.0_tailwind/
+  942  code .
+  943  deno task start
+  944  cd
+  945  cd node_depon/
+  946  ls
+  947  cd preact-www-master/
+  948  ls
+  949  less package.json 
+  950  cd ..
+  951  npx
+  952  npx preact-cli create default my-project
+  953  whereis npx
+  954  ls
+  955  cd
+  956  ls
+  957  whereis node
+  958  ls /usr/local/node -l
+  959  ls -l /usr/local/bin/node 
+  960  node -v
+  961  npm -v
+  962  npx -v
+  963  cd deno_depon/
+  964  ls
+  965  history |grep make
+  966  history |grep config
+  967  cd /usr/local/bin
+  968  ls -l
+  969  cd ../lib/
+  970  ls
+  971  cd node_modules/
+  972  ls
+  973  cd npm
+  974  ls
+  975  cd bin
+  976  ls
+  977  ls -l
+  978  cd ..
+  979  ls
+  980  cd lib
+  981  ls
+  982  cd ..
+  983  cd node_modules/
+  984  ls
+  985  cd
+  986  ls
+  987  npx
+  988  npx preact-cli
+  989  cd
+  990  cd node_depon/
+  991  ls
+  992  npm init preact
+  993  ls
+  994  cnpm init preact
+  995  cd my-preact-project/
+  996  ls
+  997  less package.json 
+  998  ls
+  999  ls node_modules/
+ 1000  npm run dev
+ 1001  npm run dev --host
+ 1002  code .
+ 1003  npm run build
+ 1004  ls
+ 1005  cp -r dist ../../deno_depon/fresh/financial_fv1.6.0_tailwind/static/ 
+ 1006  cd
+ 1007  cd deno_depon/
+ 1008  cd fresh
+ 1009  cd financial_fv1.6.0_tailwind/
+ 1010  cd static/
+ 1011  ls
+ 1012  cd dist/
+ 1013  ls
+ 1014  cd ..
+ 1015  ls
+ 1016  code .
+ 1017  ls static/dist/
+ 1018  deno task start
+ 1019  cd
+ 1020  cd node_depon/my-preact-project/
+ 1021  ls
+ 1022  code .
+ 1023  npm run dev
+ 1024  cd
+ 1025  ls
+ 1026  cd Downloads/
+ 1027  ls
+ 1028  cd node-v20.9.0/
+ 1029  ls
+ 1030  node
+ 1031  npm
+ 1032  npm upgrade
+ 1033  npm -v
+ 1034  npm update
+ 1035  npm -v
+ 1036  ls
+ 1037  cd 
+ 1038  cd node_depon/
+ 1039  ls
+ 1040  cd backends/
+ 1041  ls
+ 1042  code .
+ 1043  cd ..
+ 1044  ls
+ 1045  cd element-plus-vite-starter-main/
+ 1046  ls
+ 1047  code .
+ 1048  cd ..
+ 1049  cd backends/
+ 1050  ls
+ 1051  code .
+ 1052  dbeaver 
+ 1053  exit
+ 1054  cd 
+ 1055  cd node_depon/
+ 1056  ls
+ 1057  cd my-preact-project/
+ 1058  npm install -D tailwindcss
+ 1059  cnpm install -D tailwindcss
+ 1060  cnpx
+ 1061  npx tailwindcss init
+ 1062  ls
+ 1063  less tailwind.config.js 
+ 1064  cd
+ 1065  cd deno_depon/
+ 1066  ls
+ 1067  cd fresh
+ 1068  ls
+ 1069  cd financial_fv1.6.0_tailwind/
+ 1070  ls
+ 1071  cd static/
+ 1072  ls
+ 1073  cd dist/
+ 1074  ls
+ 1075  cp -r *.* ../
+ 1076  ls ..
+ 1077  cp -r * ../
+ 1078  ls ..
+ 1079  cd ..
+ 1080  ls
+ 1081  cd ..
+ 1082  code .
+ 1083  deno task start
+ 1084  deno task build
+ 1085  deno task preview
+ 1086  deno upgrade
+ 1087  code .
+ 1088  cd static/
+ 1089  ls
+ 1090  deno task start
+ 1091  cd
+ 1092  cd node_depon/
+ 1093  ls
+ 1094  cd my-preact-project/
+ 1095  ls
+ 1096  code .
+ 1097  cd ..
+ 1098  ls
+ 1099  unzip preact-iso-main.zip 
+ 1100  cd preact-iso-main/
+ 1101  ls
+ 1102  code .
+ 1103  exit
+ 1104  cd
+ 1105  sudo shutdown now
+ 1106  ls
+ 1107  cd
+ 1108  ls
+ 1109  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1110  code .
+ 1111  deno task start
+ 1112  cd
+ 1113  cd deno_depon/
+ 1114  ls
+ 1115  cd fresh
+ 1116  ls
+ 1117  cd ..
+ 1118  ls
+ 1119  ls -l
+ 1120  cd fresh
+ 1121  ls
+ 1122  ls -l
+ 1123  cd fresh-main
+ 1124  ls
+ 1125  code .
+ 1126  exit
+ 1127  dbeaver 
+ 1128  exit
+ 1129  sudo shutdown now
+ 1130  cd
+ 1131  cd deno_depon/fresh
+ 1132  ls
+ 1133  cd fresh-main
+ 1134  code .
+ 1135  cd
+ 1136  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1137  code .
+ 1138  deno task start
+ 1139  code .
+ 1140  deno task start
+ 1141  cd
+ 1142  cd node_depon/
+ 1143  cd my-preact-project/
+ 1144  ls
+ 1145  code .
+ 1146  cd ..
+ 1147  ls
+ 1148  cd preact-iso-main/
+ 1149  code .
+ 1150  ls
+ 1151  cnpm 
+ 1152  cnpm init
+ 1153  less package.json 
+ 1154  cnpm install
+ 1155  cd
+ 1156  cd deno_depon/fresh
+ 1157  cd financial_fv1.6.0_tailwind/
+ 1158  code .
+ 1159  deno task start
+ 1160  deno
+ 1161  deno task start
+ 1162  deno
+ 1163  deno task start
+ 1164  cd ..
+ 1165  ls
+ 1166  cd fresh-main
+ 1167  ls
+ 1168  code .
+ 1169  cd
+ 1170  cd node_depon/
+ 1171  cd my-preact-project/
+ 1172  ls
+ 1173  less package.json 
+ 1174  esbuild --version
+ 1175  cnpm install --save-exact --save-dev esbuild
+ 1176  ls -l
+ 1177  ls node_modules/
+ 1178  ls node_modules/esbuild
+ 1179  ls node_modules -l
+ 1180  ls -l node_modules/esbuild 
+ 1181  cd node_modules/
+ 1182  rm -rf esbuild
+ 1183  cd ..
+ 1184  npm install --save-exact --save-dev esbuild
+ 1185  ls
+ 1186  cd
+ 1187  ls
+ 1188  less his20231116_install 
+ 1189  cd
+ 1190  history |grep tar
+ 1191  cd Downloads/
+ 1192  ls
+ 1193  rm -rf node-v20.9.0
+ 1194  tar -zxvf node-v20.9.0.tar.gz 
+ 1195  whereis node
+ 1196  ls -l /usr/local/bin/node
+ 1197  npm -v
+ 1198  ls -l /usr/local/bin/npm
+ 1199  ls -l /usr/local/bin/npx
+ 1200  rm -rf node-v20.9.0
+ 1201  cd /usr/local/
+ 1202  ls
+ 1203  ls man
+ 1204  ls man/man1/
+ 1205  ls man/man1/node.1 
+ 1206  ls man/man1/node.1 -l
+ 1207  cd share/
+ 1208  ls
+ 1209  cd man/
+ 1210  ls
+ 1211  cd man1/
+ 1212  ls
+ 1213  cd ..
+ 1214  ls
+ 1215  cd ..
+ 1216  ls
+ 1217  cd lib
+ 1218  ls
+ 1219  cd node_modules/
+ 1220  ls
+ 1221  ls -l
+ 1222  cd ..
+ 1223  cd npm
+ 1224  pwd
+ 1225  cd node_modules/
+ 1226  cd npm/
+ 1227  ls
+ 1228  cd bin/
+ 1229  ls
+ 1230  cd ..
+ 1231  ls
+ 1232  cd node_modules/
+ 1233  ls
+ 1234  cd ..
+ 1235  ls
+ 1236  cd ..
+ 1237  ls
+ 1238  cd ..
+ 1239  rm -rf node_modules/
+ 1240  sudo rm -rf node_modules/
+ 1241  ls
+ 1242  cd ..
+ 1243  ls
+ 1244  cd sbin/
+ 1245  ls
+ 1246  cd ..
+ 1247  cd bin
+ 1248  ls
+ 1249  rm -rf node
+ 1250  sudo rm -rf node
+ 1251  sudo rm -rf npm
+ 1252  sudo rm -rf npx
+ 1253  ls
+ 1254  ls -l
+ 1255  rm cnpm 
+ 1256  sudo rm -rf cnpm 
+ 1257  sudo rm -rf corepack 
+ 1258  cd
+ 1259  ls
+ 1260  cd Dow
+ 1261  cd Downloads/
+ 1262  ls
+ 1263  history 
+ 1264  tar -zxvf node-v20.10.0.tar.gz 
+ 1265  cd node-v20.10.0/
+ 1266  ./configure
+ 1267  make -j4
+ 1268  sudo make install
+ 1269  node -v
+ 1270  cd 
+ 1271  npm -v
+ 1272  cd node_depon/
+ 1273  cd my-preact-project/
+ 1274  history 
+ 1275  npm install --save-exact --save-dev esbuild
+ 1276  esbuild -v
+ 1277  ./node_modules/.bin/esbuild -v
+ 1278  ./node_modules/.bin/esbuild --version
+ 1279  ls
+ 1280  ls dist
+ 1281  cd src/
+ 1282  ls
+ 1283  less index.tsx 
+ 1284  ../node_modules/.bin/esbuild index.tsx --bundle --outfile = out.js
+ 1285  ../node_modules/.bin/esbuild index.tsx --bundle --outfile=out.js
+ 1286  cd ..
+ 1287  ./node_modules/.bin/esbuild ./src/index.tsx --bundle --outfile=out.js
+ 1288  code .
+ 1289  ./node_modules/.bin/esbuild ./src/ex.jsx --bundle --outfile=out.js
+ 1290  ./node_modules/.bin/esbuild .ex.jsx --bundle --outfile=out.js
+ 1291  ./node_modules/.bin/esbuild ex.jsx --bundle --outfile=out.js
+ 1292  node out.js 
+ 1293  less package.json 
+ 1294  npm run dev
+ 1295  ifconfig
+ 1296  ip
+ 1297  ip a
+ 1298  npm run dev --host 192.168.118.135
+ 1299  npm run dev
+ 1300  cd ..
+ 1301  cd preact-iso-main/
+ 1302  code .
+ 1303  sudo shutdown now
+ 1304  cd
+ 1305  cd node_depon/preact-iso-main/
+ 1306  code .
+ 1307  cd
+ 1308  cd deno_depon/
+ 1309  cd fresh
+ 1310  ls
+ 1311  cd financial_fv1.6.0_tailwind/
+ 1312  ls
+ 1313  code .
+ 1314  cd ..
+ 1315  ls
+ 1316  cd fresh-main
+ 1317  code .
+ 1318  cd ..
+ 1319  ls
+ 1320  cd financial_fv1.6.0_tailwind/
+ 1321  ls
+ 1322  code .
+ 1323  deno task start
+ 1324  deno task build
+ 1325  deno task start
+ 1326  deno task build
+ 1327  sudo shutdown now
+ 1328  cd
+ 1329  cd deno_depon/fresh
+ 1330  cd financial_fv1.6.0_tailwind/
+ 1331  ls
+ 1332  code .
+ 1333  dbeaver
+ 1334  deno task start
+ 1335  sudo shutdown now
+ 1336  cd
+ 1337  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1338  ls
+ 1339  code .
+ 1340  deno task start
+ 1341  sudo shutdown now
+ 1342  cd
+ 1343  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1344  ls
+ 1345  code .
+ 1346  deno task start
+ 1347  code .
+ 1348  deno task start
+ 1349  sudo shutdown now
+ 1350  cd
+ 1351  cd deno_depon/fresh
+ 1352  ls
+ 1353  cd financial_fv1.6.0_tailwind/
+ 1354  ls
+ 1355  code .
+ 1356  cd
+ 1357  cd deno_depon/fresh
+ 1358  ls
+ 1359  ls -l
+ 1360  cd ..
+ 1361  ls
+ 1362  cd fresh-main/
+ 1363  ls
+ 1364  less versions.json 
+ 1365  cd ../fresh
+ 1366  cd fresh-main
+ 1367  less versions.json 
+ 1368  code .
+ 1369  cd
+ 1370  history |grep upgrade
+ 1371  deno upgrade
+ 1372  cd
+ 1373  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1374  ls
+ 1375  code .
+ 1376  c
+ 1377  d
+ 1378  cd ..
+ 1379  less fresh-main/versions.json 
+ 1380  rm -rf fresh-main
+ 1381  cd fresh
+ 1382  cd fresh-main
+ 1383  code .
+ 1384  deno
+ 1385  sudo shutdown now
+ 1386  cd
+ 1387  cd deno_depon/
+ 1388  ls
+ 1389  cd fresh
+ 1390  ls
+ 1391  cd financial_fv1.6.0_tailwind/
+ 1392  ls
+ 1393  deno upgrade
+ 1394  exit
+ 1395  cd 
+ 1396  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1397  ls
+ 1398  code .
+ 1399  sudo shutdown now
+ 1400  cd
+ 1401  cd node_depon/
+ 1402  ls
+ 1403  cd preact-iso-main/
+ 1404  ls
+ 1405  code .
+ 1406  cd ..
+ 1407  cd preact-main/
+ 1408  ls
+ 1409  code .
+ 1410  cd ..
+ 1411  ls
+ 1412  cd my-preact-project/
+ 1413  ls
+ 1414  npm install three --save
+ 1415  ls node_modules/
+ 1416  ls node_modules/three/
+ 1417  cd node_modules/three/
+ 1418  ls
+ 1419  less README.md 
+ 1420  less package.json 
+ 1421  cd build/
+ 1422  ls
+ 1423  less three.js 
+ 1424  code three.js
+ 1425  cd ..
+ 1426  ls
+ 1427  cd src/
+ 1428  ls
+ 1429  cd ..
+ 1430  cd examples/
+ 1431  ls
+ 1432  cd jsm/
+ 1433  ls
+ 1434  less Addons.js 
+ 1435  cd ..
+ 1436  ls
+ 1437  cd ..
+ 1438  ls
+ 1439  ls -l
+ 1440  cd build/
+ 1441  ls -l
+ 1442  less three.module.js 
+ 1443  ls
+ 1444  subl three.module.js 
+ 1445  ls
+ 1446  ls -l
+ 1447  cd ..
+ 1448  ls
+ 1449  subl package.json 
+ 1450  cd ..
+ 1451  ls
+ 1452  cd ..
+ 1453  ls
+ 1454  cd ..
+ 1455  cd my-preact-project/
+ 1456  code .
+ 1457  cd
+ 1458  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1459  deno task start
+ 1460  code .
+ 1461  deno task start
+ 1462  ls
+ 1463  deno task start
+ 1464  exit
+ 1465  sudo shutdown now
+ 1466  cd
+ 1467  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1468  ls
+ 1469  code .
+ 1470  cd
+ 1471  cd node_depon/
+ 1472  ls
+ 1473  unzip ../Downloads/ant-design-master.zip 
+ 1474  ls
+ 1475  cd ant-design-master/
+ 1476  ls
+ 1477  less package.json 
+ 1478  code .
+ 1479  cd
+ 1480  cd deno_depon/fresh/financial_fv1.6.0_tailwind/
+ 1481  ls
+ 1482  code .
+ 1483  ls
+ 1484  rm -rf node_modules/
+ 1485  la
+ 1486  cd ..
+ 1487  mv financial_fv1.6.0_tailwind/ financial_fv1.6.1_tailwind/
+ 1488  cd financial_fv1.6.1_tailwind/
+ 1489  deno task start
+ 1490  code .
+ 1491  deno task start
+ 1492  cd
+ 1493  . venvpython 
+ 1494  history |grep upg
+ 1495  pip3 akshare upgrade
+ 1496  pip3 install akshare upgrade
+ 1497  pip3 install akshare --upgrade
+ 1498  cd stocks/
+ 1499  ls
+ 1500  cd
+ 1501  exit
+ 1502  cd
+ 1503  cd deno_depon/fresh/financial_fv1.6.1_tailwind/
+ 1504  ls
+ 1505  code .
+ 1506  ls
+ 1507  cd node_modules/
+ 1508  ls
+ 1509  ls -l
+ 1510  ls -a
+ 1511  cd autoprefixer
+ 1512  ls
+ 1513  cd bin
+ 1514  ls
+ 1515  ls -l
+ 1516  less autoprefixer 
+ 1517  cd
+ 1518  exit
+ 1519  cd
+ 1520  cd node_depon/
+ 1521  s
+ 1522  ls
+ 1523  cd astronaut/
+ 1524  ls
+ 1525  cd astro_project/
+ 1526  ls
+ 1527  ls src/
+ 1528  ls
+ 1529  pwd
+ 1530  ls
+ 1531  less package.json 
+ 1532  ls
+ 1533  cd ..
+ 1534  cd tutorial/
+ 1535  ls
+ 1536  ls node_modules/
+ 1537  code .
+ 1538  cd ..
+ 1539  ls
+ 1540  cd astro_project/
+ 1541  ls
+ 1542  code .
+ 1543  cd ..
+ 1544  ls
+ 1545  cd ..
+ 1546  ls
+ 1547  cd my-preact-project/
+ 1548  ls
+ 1549  code .
+ 1550  npm run dev
+ 1551  npm run dev --host 192.168.135
+ 1552  npm run dev --host 192.168.118.135
+ 1553  npm --host 192.168.118.135 run dev
+ 1554  npm run dev --host 192.168.118.135
+ 1555  npm run dev 
+ 1556  npm run dev --host 192.168.118.135
+ 1557  npm run dev --host 192.168.118.135 --port 8000
+ 1558  vite
+ 1559  npx vite
+ 1560  npx vite --host 192.168.118.135
+ 1561  npx vite --host 192.168.118.135 --port 8000
+ 1562  npx vite --host 192.168.118.135
+ 1563  npm run dev
+ 1564  npm i --save-dev @types/three
+ 1565  npm run dev
+ 1566  cd ..
+ 1567  ls
+ 1568  cd astronaut/
+ 1569  ls
+ 1570  cd astro_project/
+ 1571  ls
+ 1572  code .
+ 1573  npm run dev
+ 1574  ls
+ 1575  npm run dev
+ 1576  npx @astrojs/upgrade
+ 1577  sudo shutdown now
+ 1578  exit
+ 1579  cd
+ 1580  cd node_depon/my-preact-project/
+ 1581  ls
+ 1582  npm run dev
+ 1583  cd
+ 1584  cls
+ 1585  cd
+ 1586  cd deno_depon/fresh
+ 1587  ls
+ 1588  cd ..
+ 1589  ls
+ 1590  cd fresh
+ 1591  s
+ 1592  ls
+ 1593  unzip ../../Downloads/saaskit-main (1).zip
+ 1594  unzip ../../Downloads/saaskit-main\ (1\).zip
+ 1595  unzip ../../Downloads/saaskit-main\(1\).zip
+ 1596  unzip ../../Downloads/saaskit-main\ \(1\).zip
+ 1597  ls
+ 1598  cd saaskit-main/
+ 1599  ls
+ 1600  code .
+ 1601  deno task start
+ 1602  ls
+ 1603  ls posts/
+ 1604  deno task start
+ 1605  exit
+ 1606  cd 
+ 1607  cd node_depon/
+ 1608  ls
+ 1609  cd my-preact-project/
+ 1610  ls
+ 1611  npm install --save @guiexpert/table @guiexpert/preact-table
+ 1612  code .
+ 1613  npm install --save @guiexpert/demo-table-models
+ 1614  code .
+ 1615  npm run dev
+ 1616  pwd
+ 1617  ls
+ 1618  less package.json 
+ 1619  npm run build
+ 1620  ls
+ 1621  ls dist/
+ 1622  ls dist/assets/
+ 1623  ls dist/assets/ -l
+ 1624  less dist/assets/index-f615e9a0.css 
+ 1625  code .
+ 1626  npx tailwindcss -i ./src/input.css  -o ./src/output.css --watch
+ 1627  npm run dev
+ 1628  npx tailwindcss -i ./src/input.css  -o ./src/output.css --watch
+ 1629  sudo shutdown now
+ 1630  cd
+ 1631  cd node_depon/my-preact-project/
+ 1632  ls
+ 1633  code .
+ 1634  npm run dev
+ 1635  sudo shutdown now
+ 1636  cd
+ 1637  cd node_depon/my-preact-project/
+ 1638  ls
+ 1639  code .
+ 1640  deno task start
+ 1641  npm run dev
+ 1642  cd ..
+ 1643  ls
+ 1644  cd astronaut/
+ 1645  ls
+ 1646  cd astro_project/
+ 1647  ls
+ 1648  code .
+ 1649  npm run dev
+ 1650  sudo shutdown now
+ 1651  ls
+ 1652  cd
+ 1653  cd node_depon/astronaut/
+ 1654  ls
+ 1655  cd astro_project/
+ 1656  ls
+ 1657  code .
+ 1658  npx astro add tailwind
+ 1659  ping www.baidu.com
+ 1660  ls /etc/systemd/
+ 1661  ls /etc/network
+ 1662  ls /etc/networkd-dispatcher/
+ 1663  ls /etc/netconfig 
+ 1664  ls /etc/netconfig  -l
+ 1665  less /etc/netconfig  
+ 1666  ls /etc/network
+ 1667  ls /etc/network/ -l
+ 1668  ls /etc/network/if-up.d/
+ 1669  ifconfig
+ 1670  ip a
+ 1671  ls /etc/netplan/
+ 1672  ls /etc/netplan/00-installer-config.yaml -l
+ 1673  less /etc/netplan/00-installer-config.yaml 
+ 1674  ip a
+ 1675  ifdown
+ 1676  ip link 
+ 1677  ip link set ens33 down
+ 1678  sudo ip link set ens33 down
+ 1679  sudo ip link set ens33 up
+ 1680  ip a
+ 1681  ping www.baidu.com
+ 1682  npx astro add tailwind
+ 1683  ping www.baidu.com
+ 1684  npx astro add tailwind
+ 1685  npx astro add react
+ 1686  npm run dev
+ 1687  code .
+ 1688  cd ..
+ 1689  ls
+ 1690  cd ..
+ 1691  ls
+ 1692  cd astronaut/
+ 1693  ls
+ 1694  cd astro_project/
+ 1695  ls
+ 1696  code .
+ 1697  npm install @tabler/icons-react
+ 1698  code .
+ 1699  bun upgrade
+ 1700  npm run dev
+ 1701  bun --version
+ 1702  bun upgrade
+ 1703  cd ..
+ 1704  ls
+ 1705  cd ..
+ 1706  ls
+ 1707  mkdir nextjs
+ 1708  cd nextjs/
+ 1709  ls
+ 1710  npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
+ 1711  cd
+ 1712  cd node_depon/nextjs/
+ 1713  ls
+ 1714  rm -f nextjs-dashboard/
+ 1715  rm -rf nextjs-dashboard/
+ 1716  npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
+ 1717  cd nextjs-dashboard/
+ 1718  ls
+ 1719  ls node_modules/
+ 1720  npm run dev
+ 1721  code .
+ 1722  npm run dev
+ 1723  sudo shutdown now
+ 1724  ls
+ 1725  cd
+ 1726  git
+ 1727  cd node_depon/
+ 1728  ls
+ 1729  ls package/
+ 1730  cd astronaut/
+ 1731  ls
+ 1732  cd tutorial/
+ 1733  ls
+ 1734  ls -ah
+ 1735  code .
+ 1736  cd .git/
+ 1737  ls
+ 1738  less -l
+ 1739  cd con
+ 1740  ls
+ 1741  less config 
+ 1742  ls branches/
+ 1743  cd ..
+ 1744  ls
+ 1745  git config --list --show-origin
+ 1746  cd
+ 1747  ls
+ 1748  pwd
+ 1749  exit
+ 1750  pwd
+ 1751  cd Desktop/
+ 1752  cd learngit/
+ 1753  ls
+ 1754  ls .git
+ 1755  ls .git/branches/
+ 1756  ls .git/info/
+ 1757  ls .git/objects/
+ 1758  ls .git/ref
+ 1759  ls .git/refs
+ 1760  git add readme.txt 
+ 1761  git commit -m "wrote a readme file"
+ 1762  ls .git/branches/
+ 1763  git status
+ 1764  git diff readme.txt
+ 1765  git add readme.txt 
+ 1766  git status
+ 1767  git commit -m "add distributed"
+ 1768  git status
+ 1769  git add readme.txt 
+ 1770  git commit -m "append GPL"
+ 1771  git log
+ 1772  git log --pretty=oneline
+ 1773  git reset --hard HEAD^
+ 1774  git log
+ 1775  git reset --hard 62257
+ 1776  git reflog
+ 1777  history >gitcomm
